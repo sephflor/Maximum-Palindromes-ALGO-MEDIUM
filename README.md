@@ -1,1 +1,1 @@
-# Maximum-Palindromes-ALGO-MEDIUM
+# Maximum-Palindromes-ALGO-MEDIUM.This code efficiently answers queries about the number of maximum-length palindromes that can be formed from any substring of a given string by using prefix sums for character counts and modular combinatorics to compute permutations, returning results modulo 109+710^9 + 7109+7. It precomputes factorials and modular inverses to quickly calculate the number of distinct palindromes for each query.
